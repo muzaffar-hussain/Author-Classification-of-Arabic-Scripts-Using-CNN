@@ -18,3 +18,5 @@ The requirement file is already included so you only have to run this command.
 ## Data Files:
 
 Raw data should be copied in the folder raw_data. After that run the jupyter notebook & it will automatically pre-process the data. 
+
+If you have any querries regarding this write me at: muzaffar@hotmail.com
