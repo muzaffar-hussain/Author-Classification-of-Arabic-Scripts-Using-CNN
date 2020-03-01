@@ -1,0 +1,8 @@
+pip install opencv-python==4.1.0.25
+pip install imutils
+pip install pandas==0.23.4
+pip install tensorflow==1.14.0
+pip install keras==2.2.4
+pip install split_folders
+pip install matplotlib==3.0.2
+pip install Pillow==5.4.0
